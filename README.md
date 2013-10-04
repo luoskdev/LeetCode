@@ -1,4 +1,4 @@
 LeetCode
 ========
 
-The solution for the problems on the leetcode.
+The solution for the problems on the LeetCode.
