@@ -1,3 +1,10 @@
+/**************************************
+ * Author 	: luoshikai
+ * Version 	: 1.0
+ * Date 	: 2013-10-06
+ * Email	: luoshikai@gmail.com
+ *************************************/
+
 /**
  * Given an array of integers, find two numbers such that they add up to a 
  * specific target number.
