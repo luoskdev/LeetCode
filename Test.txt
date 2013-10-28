@@ -1,1 +1,0 @@
-To test whether can I check out using XCode from Mac OS X
